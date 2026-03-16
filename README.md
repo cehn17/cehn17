@@ -14,7 +14,7 @@ I am a **Teaching Assistant** at the **Universidad Nacional de General Sarmiento
 - **Databases:** MySQL, MongoDB (Hybrid Persistence).
 - **Tools:** Docker, Git, Maven, Postman, Swagger.
 
-## 🌟 Featured Project: [Academy REST API](https://github.com/cehn17/academy-api)
+## 🌟 Featured Project: [Academy REST API](https://github.com/cehn17/academy)
 A professional-grade backend for academic management featuring:
 - **Hybrid Persistence:** MySQL for transactions and MongoDB for teacher reviews.
 - **Security:** Robust RBAC with JWT and token blacklist.
